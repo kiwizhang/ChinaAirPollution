@@ -1,3 +1,3 @@
 # ChinaAirPollution
 
-Built with D3.js, Leaflet.js and AngularJS
+Built with Leaflet.js, D3.js and AngularJS
