@@ -1,9 +1,16 @@
 var myApp = angular.module('myApp', [
-'ngRoute'
+'ngRoute',
+'leaflet-directive',
+'smart-table'
 ]).
 config(['$routeProvider', function($routeProvider){
-	$routeProvider.when('/home',{
+	$routeProvider
+	.when('/home',{
 		templateUrl:'view/homeView.htm',
-		controller:''
-	});
+		controller:'homeCtrl'
+	})
+	.when('/table',{
+		templateUrl:'view/tableView.htm',
+		controller:'tableCtrl'
+	})
 }]);

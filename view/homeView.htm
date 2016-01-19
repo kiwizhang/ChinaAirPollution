@@ -1,0 +1,35 @@
+<div class="row">
+	<div class="col-xs-7">
+		<leaflet lf-center="China"
+				 defaults="defaults"
+				 maxbounds="maxbounds"
+				 paths="paths"
+				 tiles="tiles"
+				 height="80%"
+				 legend="legend"
+				 width="100%"
+				 controls="controls"
+				 event-broadcast="events">
+		</leaflet>
+				<div id="popUp">SO2:{{pathHover.so2}}</div>
+	</div>
+	<div class="col-xs-5"">
+		<div ng-if="pathClicked==null">
+			<button class="btn bg-success"><strong>&#28857;&#20987;&#25110;&#32553;&#25918;&#22320;&#22270;&#26597;&#30475;&#35814;&#32454;&#25968;&#25454;.</strong></button>
+
+		</div>
+
+		<ul class="list-group" ng-show="pathClicked!=null">
+			<li class="list-group-item"><strong>&#22478;&#24066;: </strong>{{pathClicked.area}}</li>
+			<li class="list-group-item" ng-if="China.zoom > zoomSkip"><strong>&#30417;&#27979;&#28857;: </strong>{{pathClicked.position_name}}</li>
+			<li class="list-group-item" ng-if="China.zoom > zoomSkip"><strong>&#20027;&#35201;&#27745;&#26579;&#29289;: </strong>{{pathClicked.primary_pollutant}}</li>
+			<li class="list-group-item" ng-if="China.zoom > zoomSkip"><strong>&#31354;&#27668;&#36136;&#37327;&#31561;&#32423;: </strong>{{pathClicked.quality}}</li>
+			<li class="list-group-item"><strong>&#31354;&#27668;&#36136;&#37327;&#25351;&#25968;: </strong>{{pathClicked.aqi}}</li>
+			<li class="list-group-item"><strong>PM 2.5: </strong>{{pathClicked.pm2_5}}</li>
+			<li class="list-group-item"><strong>SO2: </strong>{{pathClicked.so2}}</li>
+			<li class="list-group-item"><strong>NO2: </strong>{{pathClicked.no2}}</li>
+			<li class="list-group-item"><strong>CO: </strong>{{pathClicked.co}}</li>
+			<li class="list-group-item"><strong>PM10: </strong>{{pathClicked.pm10}}</li>
+		</ul>
+	</div>
+</div>

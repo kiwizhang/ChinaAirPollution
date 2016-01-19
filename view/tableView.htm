@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-xs-12">
+        <table st-table="airRows" class="table table-striped">
+        	<thead>
+        	<tr>
+        		<th>&#30417;&#27979;&#28857;</th>
+                <th>&#31354;&#27668;&#36136;&#37327;&#31561;&#32423;</th>
+        		<th st-sort="aqi" class="pointer">&#31354;&#27668;&#36136;&#37327;&#25351;&#25968;&#65288;AQI&#65289;</th>
+                <th>&#20027;&#35201;&#27745;&#26579;&#29289;</th>
+                <th st-sort="pm2_5" class="pointer">PM2.5</th>
+                <th st-sort="pm10" class="pointer">PM10</th>
+                <th st-sort="co" class="pointer">CO</th>
+                <th st-sort="no2" class="pointer">NO2</th>
+                <th st-sort="o3" class="pointer">O3</th>
+                <th st-sort="so2" class="pointer">SO2</th>
+        	</tr>
+        	</thead>
+        	<tbody>
+        	<tr ng-repeat="airRow in airRows">
+        		<td>{{airRow.position_name}}</td>
+                <td>{{airRow.quality}}</td>
+        		<td>{{airRow.aqi}}</td>
+                <td>{{airRow.primary_pollutant}}</td>
+                <td>{{airRow.pm2_5}}</td>
+                <td>{{airRow.pm10}}</td>
+                <td>{{airRow.co}}</td>
+                <td>{{airRow.no2}}</td>
+                <td>{{airRow.o3}}</td>
+                <td>{{airRow.so2}}</td>
+        	</tr>
+        	</tbody>
+            <tfoot>
+    			<tr>
+    				<td colspan="12" class="text-center">
+    					<div st-pagination="" st-items-by-page="30" st-displayed-pages="7"></div>
+    				</td>
+    			</tr>
+    		</tfoot>
+        </table>
+    </div>
+</div>

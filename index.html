@@ -1,32 +1,71 @@
-<html lang="en" ng-app="myApp">
+<html lang="en" ng-app="myApp" lang="zh-CN">
 	<head>
 		<title>Home</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+		<META http-equiv="Content-language" content="zh-CN">
 
 		<!-- favico -->
 
 		<!-- CSS -->
 		<link rel="stylesheet" href="css/lib/bootstrap.min.css?v=1">
 		<link rel="stylesheet" href="css/style.css?v=1">
+		<link rel="stylesheet" href="css/leaflet.css?v=1">
+		<link rel="stylesheet" href="css/Control.MiniMap.css?v=1">
+		<link rel="stylesheet" href="css/leaflet.label.css?v=1">
 
 	</head>
 	<body ng-controller="frameCtrl">
-		
+		<nav class="navbar navbar-default">
+			<div class="container-fuid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#/home">AirPollution</a>
+				</div>
+
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li class="headerTab homeTab" class="active"><a href="#/home">Home</a></li>
+						<li class="headerTab tableTab"><a href="#/table">Table</a></li>
+						<li class="headerTab aboutTab"><a href="#/about">About</a></li>
+					</ul>
+					<select class="form-control airOptions" ng-options="option as option.title for option in airOptions" ng-show="showFilter" ng-model="optionSelected"></select>
+					<!-- <form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search for xx">
+						</div>
+						<button type="submit" class="btn btn-default">Submit</button>
+					</form> -->
+				</div>
+			</div>
+		</nav>
+		<div class="container-fluid">
+			<div ng-view class="height100"></div>
+		</div>
 	</body>
 
-	<!-- js -->
+	<!-- js library-->
 	<script src="js/lib/jquery-1.10.2.min.js?v=1"></script>
 	<script src="js/lib/angular/angular.js?v=1"></script>
 	<script src="js/lib/angular/angular-route.js?v=1"></script>
+	<script src="js/lib/leaflet.js"></script>
+	<script src="js/lib/angular-leaflet-directive.min.js"></script>
+	<script src="js/lib/d3.min.js"></script>
+	<script src="js/lib/Control.MiniMap.js"></script>
+	<script src="js/lib/leaflet.label.js"></script>
+	<script src="js/lib/smart-table.min.js"></script>
+
 
 	<!-- app -->
 	<script src="js/app.js?v=1"></script>
+	<script src="js/config.js?v=1"></script>
 
 	<!-- controller -->
 	<script src="js/controller/frameCtrl.js?v=1"></script>
+	<script src="js/controller/homeCtrl.js?v=1"></script>
+	<script src="js/controller/tableCtrl.js?v=1"></script>
 
 	<!-- service -->
 	<script src="js/service/pmServ.js?v=1"></script>
+	<script src="js/service/d3Serv.js?v=1"></script>
 
 </html>
