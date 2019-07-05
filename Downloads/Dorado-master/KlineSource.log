@@ -1,0 +1,456 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224515443&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224755624&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'Datastore' is not defined
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 188, in main
+    self.process_message()
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 68, in process_message
+    Datastore.set_orderbook_data(self.datalist)
+NameError: name 'Datastore' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224647026&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224887495&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'Datastore' is not defined
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 189, in main
+    self.process_message()
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 69, in process_message
+    Datastore.set_orderbook_data(self.datalist)
+NameError: name 'Datastore' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224670820&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224911095&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:set_orderbook_data() missing 1 required positional argument: 'updated_data'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 189, in main
+    self.process_message()
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 69, in process_message
+    Datastore.set_orderbook_data(self.datalist)
+TypeError: set_orderbook_data() missing 1 required positional argument: 'updated_data'
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224942546&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225182794&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:27:22
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:26
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:28
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:28
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:31
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:31
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:33
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:37
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:39
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:41
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:43
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:45
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:46
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:48
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:48
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:50
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:51
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:51
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:53
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:53
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:55
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:56
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:57
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:58
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:27:58
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:00
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:01
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:02
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:03
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:04
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:05
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:07
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:09
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:11
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:13
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:14
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:15
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:16
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224999109&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225239579&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:28:20
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:20
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:21
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:22
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:23
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:28:25
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225222199&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225462691&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:32:03
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225249929&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225490191&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:32:30
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225280018&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225520214&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 189, in main
+    self.process_message()
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 67, in process_message
+    self.datalist.append(self.get_data("1 minute ago UTC")[0])
+IndexError: list index out of range
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:02
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:04
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:11
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:12
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:13
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:15
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:16
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:17
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:18
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:19
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:20
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:24
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:26
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:32
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:32
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:34
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:35
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:33:36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225565913&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535225806089&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:37:46
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:37:49
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:37:51
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:37:54
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:37:56
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226385092&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226625311&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:51:25
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:31
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:33
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:38
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:39
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:40
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:41
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:43
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:44
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:45
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:46
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:47
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:48
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:51:49
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226467538&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226707770&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:52:47
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:52:50
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:52:52
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:52:55
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:52:56
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:52:58
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:00
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:02
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:04
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:06
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:13
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226505632&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226745851&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:53:26
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:31
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:34
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:36
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:38
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:40
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:42
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:44
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:46
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:48
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:50
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:52
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:54
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:56
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:58
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:53:59
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:01
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:04
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:12
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:14
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:16
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:18
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:20
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:22
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:24
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:26
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226806080&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:54:26
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:30
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:31
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:32
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:34
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:34
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:36
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:37
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:38
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:39
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:40
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:41
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:42
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:43
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:44
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:45
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:46
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:47
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:48
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:51
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:52
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:53
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:54
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226597243&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226837449&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:54:57
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:54:59
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:00
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:01
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:02
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:03
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:04
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:07
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:09
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:11
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:12
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:13
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:15
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:18
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:19
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:23
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:25
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:28
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:30
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:31
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:32
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:37
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:38
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:38
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:40
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:41
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:42
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:43
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:43
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:45
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:46
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:47
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:48
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:50
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:53
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:55
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:56
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:57
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226897653&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 12:55:57
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:58
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:55:59
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:00
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:01
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:02
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:03
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:04
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:05
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:07
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:09
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:11
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:13
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:15
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:17
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:19
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:21
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:23
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:25
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:27
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:29
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:56:31
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535226782198&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535227022402&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 189, in main
+    self.process_message()
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 67, in process_message
+    self.datalist.append(self.get_data("1 minute ago UTC")[0])
+IndexError: list index out of range
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:04
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:05
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:06
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:07
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:08
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:09
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:10
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:11
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:12
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:13
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:14
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:15
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:16
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:17
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:18
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:20
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:21
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:22
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:23
+DEBUG:root:updated orderbook data   ... 2018-08-25 12:58:24
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535227048313&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535227288539&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:root:updated kline data   ... 2018-08-25 13:02:28
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:30
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:31
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:33
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:33
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:34
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:35
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:36
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:37
+ERROR:root:name 'logging' is not defined
+DEBUG:root:updated orderbook data   ... 2018-08-25 13:02:38

@@ -1,0 +1,566 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534698580399&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534698821865&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724417106&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724657634&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724718136&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724540371&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724781171&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724841675&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724658820&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724900106&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724960606&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724781744&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725022272&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725082736&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724871373&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725113293&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724938668&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725179167&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534724977377&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725217890&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725075628&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725316171&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725375838&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725616376&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725422888&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725663427&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725723958&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725784872&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725846012&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725906568&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725967145&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725761515&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726002418&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725773291&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726013929&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725815254&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726055729&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726116255&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726176895&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534725969725&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726210526&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726017453&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726258766&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726319610&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726240671&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726481177&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726256724&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726498049&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534726558550&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534747470850&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534747710980&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined

@@ -1,0 +1,11 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534616551415&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1534616791995&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined

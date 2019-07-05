@@ -1,0 +1,3 @@
+
+KLINE = 'kline'
+ORDERBOOK = 'orderbook'

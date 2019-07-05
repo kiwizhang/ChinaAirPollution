@@ -1,0 +1,1336 @@
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218230464&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218470926&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218531656&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218592099&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218652627&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218713113&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218773527&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218834019&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218894807&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535218955314&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535219015861&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535219077466&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535219137972&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535219198525&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 186, in main
+    KlineSource().process_message()
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/OrderbookSource.py", line 249, in main
+    OrderbookSource().process_message)
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 186, in main
+    KlineSource().process_message()
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/OrderbookSource.py", line 249, in main
+    OrderbookSource().process_message)
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/KlineSource.py", line 186, in main
+    KlineSource().process_message()
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/OrderbookSource.py", line 249, in main
+    OrderbookSource().process_message)
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220272868&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220513080&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:__init__() missing 2 required positional arguments: 'threadID' and 'name'
+Traceback (most recent call last):
+  File "/Users/Jiwei/Downloads/Dorado-master/sources/OrderbookSource.py", line 249, in main
+    OrderbookSource().process_message)
+TypeError: __init__() missing 2 required positional arguments: 'threadID' and 'name'
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220573905&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220373621&symbol=BTCUSDT HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/ping HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220613877&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220674060&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220734285&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220794764&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220855002&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220915702&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535220976176&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221036423&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221096704&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221157019&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221217246&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221277581&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221337822&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221398163&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221458531&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221518778&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221579060&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221639278&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221699609&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221759901&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221820109&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221880390&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535221940978&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222001217&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222061489&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222122694&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222183183&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222243458&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222303764&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222364051&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222424469&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222484754&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222545005&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222605531&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222665797&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222726087&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222786577&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222846846&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222907349&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535222967849&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223028282&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223088489&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223148756&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223209061&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223269375&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223330173&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223390676&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223450897&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223511162&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223571404&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223631632&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223691903&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223752533&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223813055&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223873263&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223933857&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535223994413&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224054915&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224115200&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224175416&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224235937&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224296293&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224356587&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224417113&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224477438&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224537692&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224598019&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224658304&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v1/klines?interval=1m&limit=500&startTime=1535224718549&symbol=BTCUSDT HTTP/1.1" 200 None
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
+ERROR:root:name 'logging' is not defined
