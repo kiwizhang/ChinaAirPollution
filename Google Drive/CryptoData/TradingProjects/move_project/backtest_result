@@ -1,0 +1,114 @@
+
+
+stats for BTC-MOVE-1029 :
+using data of ['BTC-MOVE-1025', 'BTC-MOVE-1026', 'BTC-MOVE-1027', 'BTC-MOVE-1028'] to decide range
+range low: 0.0225, range high: 0.0318 , fair value: 0.0272
+short at 347.0, move_btc ratio 0.0362, amount 30, average enter price 347.00, target close price 276.30
+close_short at 276.25, move_btc ratio 0.0293, amount 30, average enter price 347.00, current pnl 6.12
+closing pnl: 0.0000
+pnl for contract 6.1167
+number of trades 2
+
+
+stats for BTC-MOVE-1030 :
+using data of ['BTC-MOVE-1026', 'BTC-MOVE-1027', 'BTC-MOVE-1028', 'BTC-MOVE-1029'] to decide range
+range low: 0.0250, range high: 0.0355 , fair value: 0.0303
+long at 237.625,  move_btc ratio 0.0257, amount 10, average enter price 237.62, target close price 274.81
+long at 227.25,  move_btc ratio 0.0240, amount 10, average enter price 232.44, target close price 275.50
+close_long at 210.5, move_btc ratio 0.0223, amount 20
+closing pnl: -1.8876
+pnl for contract -1.8876
+number of trades 3
+
+
+stats for BTC-MOVE-1031 :
+using data of ['BTC-MOVE-1027', 'BTC-MOVE-1028', 'BTC-MOVE-1029', 'BTC-MOVE-1030'] to decide range
+range low: 0.0252, range high: 0.0331 , fair value: 0.0291
+long at 209.75,  move_btc ratio 0.0223, amount 20, average enter price 209.75, target close price 263.62
+close_long at 191.5, move_btc ratio 0.0209, amount 20
+closing pnl: -1.7402
+pnl for contract -1.7402
+number of trades 2
+
+
+stats for BTC-MOVE-1101 :
+using data of ['BTC-MOVE-1028', 'BTC-MOVE-1029', 'BTC-MOVE-1030', 'BTC-MOVE-1031'] to decide range
+range low: 0.0235, range high: 0.0282 , fair value: 0.0259
+long at 182.0,  move_btc ratio 0.0198, amount 20, average enter price 182.00, target close price 227.89
+close_long at 185.5, move_btc ratio 0.0203, amount 20
+closing pnl: 0.3846
+pnl for contract 0.3846
+number of trades 2
+
+
+stats for BTC-MOVE-1102 :
+using data of ['BTC-MOVE-1029', 'BTC-MOVE-1030', 'BTC-MOVE-1031', 'BTC-MOVE-1101'] to decide range
+range low: 0.0208, range high: 0.0242 , fair value: 0.0225
+long at 149.0,  move_btc ratio 0.0163, amount 20, average enter price 149.00, target close price 197.62
+long at 143.0,  move_btc ratio 0.0157, amount 10, average enter price 147.00, target close price 192.27
+close_long at 137.75, move_btc ratio 0.0149, amount 30
+closing pnl: -1.8878
+pnl for contract -1.8878
+number of trades 3
+
+
+stats for BTC-MOVE-1103 :
+using data of ['BTC-MOVE-1030', 'BTC-MOVE-1031', 'BTC-MOVE-1101', 'BTC-MOVE-1102'] to decide range
+range low: 0.0180, range high: 0.0202 , fair value: 0.0191
+long at 128.5,  move_btc ratio 0.0139, amount 20, average enter price 128.50, target close price 169.77
+close_long at 130.0, move_btc ratio 0.0140, amount 20
+closing pnl: 0.2335
+pnl for contract 0.2335
+number of trades 2
+
+
+stats for BTC-MOVE-1104 :
+using data of ['BTC-MOVE-1031', 'BTC-MOVE-1101', 'BTC-MOVE-1102', 'BTC-MOVE-1103'] to decide range
+range low: 0.0157, range high: 0.0171 , fair value: 0.0164
+closing pnl: 0.0000
+pnl for contract 0.0000
+number of trades 0
+
+
+stats for BTC-MOVE-1105 :
+using data of ['BTC-MOVE-1101', 'BTC-MOVE-1102', 'BTC-MOVE-1103', 'BTC-MOVE-1104'] to decide range
+range low: 0.0154, range high: 0.0166 , fair value: 0.0160
+long at 131.5,  move_btc ratio 0.0143, amount 10, average enter price 131.50, target close price 143.81
+close_long at 139.0, move_btc ratio 0.0148, amount 10
+closing pnl: 0.5703
+pnl for contract 0.5703
+number of trades 2
+
+
+stats for BTC-MOVE-1106 :
+using data of ['BTC-MOVE-1102', 'BTC-MOVE-1103', 'BTC-MOVE-1104', 'BTC-MOVE-1105'] to decide range
+range low: 0.0144, range high: 0.0162 , fair value: 0.0153
+closing pnl: 0.0000
+pnl for contract 0.0000
+number of trades 0
+
+
+stats for BTC-MOVE-1107 :
+using data of ['BTC-MOVE-1103', 'BTC-MOVE-1104', 'BTC-MOVE-1105', 'BTC-MOVE-1106'] to decide range
+range low: 0.0142, range high: 0.0160 , fair value: 0.0151
+long at 126.25,  move_btc ratio 0.0136, amount 10, average enter price 126.25, target close price 137.94
+close_long at 122.0, move_btc ratio 0.0131, amount 10
+closing pnl: -0.3366
+pnl for contract -0.3366
+number of trades 2
+
+
+stats for BTC-MOVE-1108 :
+using data of ['BTC-MOVE-1104', 'BTC-MOVE-1105', 'BTC-MOVE-1106', 'BTC-MOVE-1107'] to decide range
+range low: 0.0137, range high: 0.0156 , fair value: 0.0147
+long at 118.75,  move_btc ratio 0.0127, amount 10, average enter price 118.75, target close price 133.99
+close_long at 111.0, move_btc ratio 0.0121, amount 10
+closing pnl: -0.6526
+pnl for contract -0.6526
+number of trades 2
+-------------------------------------------
+total trades: 20
+total pnl: 0.8003439180180121
+positive pnl days: 4
+negative pnl days: 7
+-------------------------------------------
